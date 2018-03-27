@@ -1,6 +1,5 @@
-
 ---
-layout: terms-of-service
+layout:privacy-policy
 ---
 
 **Your privacy is important to us.**
