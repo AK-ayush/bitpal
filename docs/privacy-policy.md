@@ -6,7 +6,7 @@ layout: privacy-policy
 
 * * *
 
-It is Daily Crypto's policy to respect your privacy regarding any information we may collect while operating our skill. Accordingly, we have developed this privacy policy in order for you to understand what we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
+It is Bit Pal's policy to respect your privacy regarding any information we may collect while operating our skill. Accordingly, we have developed this privacy policy in order for you to understand what we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
 *   We do not collect any personal information information from the users of our skill.
 
@@ -16,12 +16,12 @@ It is Daily Crypto's policy to respect your privacy regarding any information we
 
 *   We do not collect information from children under 13 since this skill is also enabled for children under 13.
 
-*   Daily Crypto may change this privacy policy from time to time at Daily Crypto's sole discretion.
+*   Bit Pal may change this privacy policy from time to time at Bit Pal's sole discretion.
 
 Contacting Us:
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-***Daily Crypto***  
+***Bit Pal***  
 Bangalore, Karnataka 560103  
 India,  
 kayush206@gmail.com   
