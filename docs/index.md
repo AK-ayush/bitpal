@@ -22,6 +22,6 @@ Contacting Us:
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 ***Daily Crypto***  
-Bangalore, Karnataka 560103    
-India  
+Bangalore, Karnataka 560103  
+India,  
 kayush206@gmail.com   
